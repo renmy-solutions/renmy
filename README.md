@@ -21,7 +21,7 @@ same code it just proved — all from one binary.
 🌐 **[renmy.net](https://renmy.net)** &nbsp;·&nbsp;
 📖 **[Docs](https://renmy.net/docs)** &nbsp;·&nbsp;
 🚀 **[Quickstart](https://renmy.net/quickstart)** &nbsp;·&nbsp;
-💬 **[Slack](https://join.slack.com/t/nimbuslocalap-tj23081/shared_invite/zt-3x7fxoo38-AAgO9QHP7if53JPunBxOPQ)**
+💬 **[Slack](https://join.slack.com/t/renmy/shared_invite/zt-3x7fxoo38-AAgO9QHP7if53JPunBxOPQ)**
 
 ---
 
